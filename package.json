@@ -43,8 +43,7 @@
     "node": "0.10.3"
   },
   "scripts": {
-    "start": "./bin/npm-starter",
-    "postinstall": "./bin/post-install"
+    "start": "./bin/npm-starter"
   },
   "repository": {
     "type": "git",
